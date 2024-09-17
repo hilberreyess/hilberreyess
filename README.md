@@ -4,7 +4,7 @@
 - 💞️ Estoy buscando colaborar en proyectos innovadores donde pueda contribuir a crear soluciones impactantes, especialmente en áreas que involucren optimización de sistemas, experiencia de usuario y automatización de procesos.
 - 📫 How to reach me: Puedes comunicarte conmigo a través de https://x.com/hilberreyess.
 - 😄 Pronouns: Él
-- ⚡ Fun fact: ¡Cuando no estoy programando, me gusta explorar nuevas tecnologías y experimentar con proyectos de electrónica DIY!
+- ⚡ Fun fact: ¡Cuando no estoy programando, soy un apasionado a los videojuegos!
 
 <!---
 hilberreyess/hilberreyess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
