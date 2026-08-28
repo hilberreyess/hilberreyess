@@ -1,4 +1,4 @@
-# 👋 Hola, soy Hilber Reyes Tecolapa
+# 👋 Hola, soy Hilber Reyes
 
 Soy un estudiante de Ingeniería en Sistemas con especialización en desarrollo web y móvil. Apasionado por la tecnología y la programación, siempre en busca de mejorar mis habilidades y explorar nuevas tecnologías. Me encanta el desarrollo frontend y la creación de interfaces atractivas y funcionales.
 
